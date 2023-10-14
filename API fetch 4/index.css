@@ -1,0 +1,16 @@
+.top{
+    background-color: rgb(69, 69, 243);
+    height: 80px;
+}
+
+.top>h6{
+    text-align: center;
+    padding-top: 25px;
+
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.row{
+    margin-top: 100px;
+}
